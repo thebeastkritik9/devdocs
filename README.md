@@ -41,9 +41,9 @@ The `thor docs:download` command is used to download pre-generated documentation
 Alternatively, DevDocs may be started as a Docker container:
 
 ```
-# First, build the image
+# First, build the imageaifhasdj
 git clone https://github.com/freeCodeCamp/devdocs.git && cd devdocs
-docker build -t thibaut/devdocs .
+docker build -t thibaut/devdocs kadsjfhlaksjdfhlaskdjfhaskdjfhakjsdfhalkjsdfhaksljdfskdjfhalskjdfhkaljdfhkajsjdf;lkajdsf
 
 # Finally, start a DevDocs container (access http://localhost:9292)
 docker run --name devdocs -d -p 9292:9292 thibaut/devdocs
